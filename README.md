@@ -3,12 +3,9 @@
 Eu sou o Gabriel Valadares Batista, sou progamador Frond end, atualmente estou aprendende a progamar com:
 <br>
 <br>
-![16183594](https://github.com/user-attachments/assets/01acec43-b97c-4aea-b148-ba67de6c0f81)
-![888897](https://github.com/user-attachments/assets/0164f94d-03f2-443e-8a93-6a47d9ed1e99)
-![javascript](https://github.com/user-attachments/assets/1a6ef288-65ba-4efd-a087-9b278a15d2c3)
 
-<br>
-<br>
-
+![icons8-html-5-96](https://github.com/user-attachments/assets/3b342203-5218-4524-adae-a93cee219b0f)
+![icons8-css3-96](https://github.com/user-attachments/assets/cad758a4-61c0-414b-a23b-095e96e2fd04)
+![icons8-javascript-96](https://github.com/user-attachments/assets/af117338-a347-47bb-9a6f-c846888c8f27)
 
 
